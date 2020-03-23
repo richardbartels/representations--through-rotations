@@ -1,2 +1,2 @@
-# representations--through-rotations
-Learning representations through rotations
+# Representations from rotations
+Learning representations through rotations.
